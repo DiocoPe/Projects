@@ -39,3 +39,4 @@ function limparQuadro() {
      var chute = document.querySelector('input')
     chute.value = '';
 }
+as 
